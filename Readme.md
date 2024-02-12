@@ -1,4 +1,4 @@
-#Project Name: Image Verification Captcha
+# Project Name: Image Verification Captcha
 
 **Description:**
 The Image Verification Captcha project is a graphical user interface (GUI) application built using Python's Tkinter library and the PIL (Python Imaging Library) module. It presents users with a captcha challenge where they need to select specific images to verify themselves as human users. The project includes functionalities such as displaying images, handling user interactions, and verifying user selections.
